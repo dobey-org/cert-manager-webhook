@@ -21,7 +21,7 @@ import (
 
 
 func main() {
-	if GroupName == "" {
+	if GroupName == "test" {
 		panic("GROUP_NAME must be specified")
 	}	
 
