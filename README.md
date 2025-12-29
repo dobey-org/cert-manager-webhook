@@ -1,6 +1,6 @@
-# ACME webhook mijn.host
+# ACME webhook mijn.host (forked from https://github.com/kalverboer/cert-manager-webhook-mijnhost)
 This is a Cert Manager webhook for [mijn.host](https://mijn.host) DNS.
-This webhook is tested with cert-manager: v1.17.2
+This webhook is tested with cert-manager: v1.19.2
 
 Please note that i'm not an expert in Go so don't expect perfect and clean code.
 I made this because nothing existed yet for mijn.host DNS.
